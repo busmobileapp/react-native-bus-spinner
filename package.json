@@ -1,0 +1,26 @@
+{
+  "name": "rn-bus-spinner",
+  "version": "1.0.0",
+  "description": "Spinner view to indicade loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": ">= 15.x",
+    "react-native": ">= 0.47.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busmobileapp/rn-bus-spinner.git"
+  },
+  "author": "busmobileapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busmobileapp/rn-bus-spinner/issues"
+  },
+  "homepage": "https://github.com/busmobileapp/rn-bus-spinner#readme",
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.1"
+  }
+}
