@@ -1,5 +1,5 @@
 {
-  "name": "rn-bus-spinner",
+  "name": "react-native-bus-spinner",
   "version": "1.0.0",
   "description": "Spinner view to indicade loading",
   "main": "index.js",
